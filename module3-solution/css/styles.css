@@ -12,7 +12,8 @@ body {
 }
 
 .container {
-
+width: 80%;
+margin: auto;
 }
 
 .main-content {
@@ -61,10 +62,4 @@ padding: 10px;
 	border: 1px solid #293344;
 }
 
-@media (max-width: 767px){
-	.row {
-width: 80%;
-margin: auto;
-padding: auto;
-	}
-}
+
